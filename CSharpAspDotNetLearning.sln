@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloCoreApp", "HelloCoreApp\HelloCoreApp.csproj", "{79D1BB47-2B9E-418A-86A7-B042565BC0CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperAdvancedAPI", "DapperAdvancedAPI\DapperAdvancedAPI.csproj", "{127BA124-686E-4BAD-9DA6-2B47D73E4B64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCRUDWebAPI", "EfCRUDWebAPI\EfCRUDWebAPI.csproj", "{B7F150F3-C0F4-4AA0-BEE5-DF38256B459F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDWithADONet", "CRUDWithADONet\CRUDWithADONet.csproj", "{3B920832-BDB4-4D2D-AD08-AE17C98C7EA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumeWebAPI", "ConsumeWebAPI\ConsumeWebAPI.csproj", "{71BD98C8-12BE-4AE0-880F-3AA97B92676B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyanmarCurrencyName", "MyanmarCurrencyName\MyanmarCurrencyName.csproj", "{CC024A00-4517-44B1-A261-6FB09A8964B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D1BB47-2B9E-418A-86A7-B042565BC0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D1BB47-2B9E-418A-86A7-B042565BC0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D1BB47-2B9E-418A-86A7-B042565BC0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D1BB47-2B9E-418A-86A7-B042565BC0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127BA124-686E-4BAD-9DA6-2B47D73E4B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127BA124-686E-4BAD-9DA6-2B47D73E4B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127BA124-686E-4BAD-9DA6-2B47D73E4B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127BA124-686E-4BAD-9DA6-2B47D73E4B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F150F3-C0F4-4AA0-BEE5-DF38256B459F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F150F3-C0F4-4AA0-BEE5-DF38256B459F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F150F3-C0F4-4AA0-BEE5-DF38256B459F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F150F3-C0F4-4AA0-BEE5-DF38256B459F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B920832-BDB4-4D2D-AD08-AE17C98C7EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B920832-BDB4-4D2D-AD08-AE17C98C7EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B920832-BDB4-4D2D-AD08-AE17C98C7EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B920832-BDB4-4D2D-AD08-AE17C98C7EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71BD98C8-12BE-4AE0-880F-3AA97B92676B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BD98C8-12BE-4AE0-880F-3AA97B92676B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BD98C8-12BE-4AE0-880F-3AA97B92676B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BD98C8-12BE-4AE0-880F-3AA97B92676B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC024A00-4517-44B1-A261-6FB09A8964B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC024A00-4517-44B1-A261-6FB09A8964B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC024A00-4517-44B1-A261-6FB09A8964B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC024A00-4517-44B1-A261-6FB09A8964B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF35CA3-448B-4022-BA6D-E4CF4F2C3FFF}
+	EndGlobalSection
+EndGlobal
